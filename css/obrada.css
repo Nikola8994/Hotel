@@ -1,0 +1,173 @@
+body { 
+    background-color: #1c4a5a;
+} 
+ 
+.logo { 
+ width: 60px;
+    height: 45px;
+
+} 
+nav { 
+
+background-color: #356374;  
+
+
+} 
+ 
+.skrol { 
+background-color: #356374;  
+
+}
+
+.dropdown-item:hover { 
+    background-color: #628693;
+
+}
+.karta { 
+
+    float: right; 
+    
+} 
+
+.card { 
+
+    background-color: #628693;
+}  
+
+#slajd {
+
+    height: 553px;
+} 
+ 
+ .btn { 
+
+    background-color:#1c4a5a ;
+} 
+.sobicak { 
+    float: left;   
+    clear: both; 
+    
+     
+}  
+ .well { 
+
+    clear: both;
+ } 
+ .regi { 
+    clear: both;
+ } 
+  
+
+    
+    .card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+    .card-registration .select-arrow {
+    top: 13px;
+    } 
+
+
+footer { 
+
+    background-color: #356374	; 
+    border-top-left-radius:  15px;  
+    border-top-right-radius: 15px;
+    
+} 
+ 
+#slajd-restoran { 
+
+
+    height: 350px;
+} 
+
+
+
+.item { 
+
+    padding-top: 20px;
+}  
+.faq-btn { 
+
+    background-color: #628693;
+} 
+
+.btn-success { 
+
+    background-color:#628693 !important;
+} 
+ 
+hr { 
+    color: white;
+} 
+
+button:hover { 
+
+    background-color: #628693 ;
+}   
+
+nav ul li a:hover { 
+
+    background-color: #628693 ; 
+    border-radius: 15px ;
+} 
+
+nav { 
+    border-end-end-radius: 15px; 
+    border-bottom-left-radius: 15px;
+
+} 
+
+footer  a:hover { 
+    background-color: #628693 ; 
+    
+}  
+
+footer a { 
+    text-decoration: none;
+}
+
+.mapa ul li { 
+    list-style-type: none;
+} 
+
+.mapa ul li a  { 
+
+    color: white; 
+    text-decoration: none;
+} 
+
+.mapa ul li a:hover {  
+    background-color: #628693 ; 
+
+}  
+
+option :hover { 
+    background-color: #628693 ; 
+ }  
+
+ .select option:hover { 
+    background-color: #628693 ;   
+
+    
+ } 
+
+ input:hover { 
+    background-color: #356374;
+ }  
+
+ .sobicak a:hover { 
+
+    background-color: #356374;
+
+ } 
+
+ .karta a:hover { 
+    background-color: #356374;
+ } 
+ .re a:hover { 
+    background-color: #356374;
+ }
